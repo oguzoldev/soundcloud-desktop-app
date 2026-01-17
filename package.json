@@ -1,0 +1,19 @@
+{
+  "name": "soundcloud-desktop-app",
+  "description": "A lightweight SoundCloud desktop application built with Tauri",
+  "author": "o9uz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/o9uz/soundcloud-desktop-app.git"
+  },
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2"
+  }
+}
